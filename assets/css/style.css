@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.retro{
+background-image: url(../img/Assorted-Goodness.gif);
+height: auto;
+object-fit: cover;
+}
+.retro h2,
+.retro h4,
+.retro label {
+    color: brown;
+    font-weight: 500;
+}
+.retro p{
+    background-color: brown;
+    font-weight: 500;
+}
+.retro button{
+    background-color: thistle;
+    color: sienna;
+}
+.oscuro{
+    background-image: url(../img/keagan-henman-hkGF3Vwkzdk-unsplash.jpg);
+}
+.oscuro h2,
+.oscuro h4,
+.oscuro label {
+    color: wheat;
+}
